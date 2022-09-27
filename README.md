@@ -1,5 +1,5 @@
 # Aula 1 Jornada Dev
-![preview](./.github/preview)
+![preview](./github/preview.png)
 
 > Primeira aula da Jornada Dev 
 
