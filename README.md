@@ -3,7 +3,7 @@
 
 > Currículo desenvolvido na Jornada Dev 
 
-Projeto de um currículo deenvolvido no curso do evento. Jornada Dev.
+Projeto de um currículo desenvolvido no curso do evento. Jornada Dev.
 
 
 [ Clique aqui para acessar](https://douglascorreacavasso.github.io/JORNADA-DEV.GITHUB.IO/)
