@@ -1,9 +1,9 @@
-# Aula 1 Jornada Dev
+# Currículo - Jornada Dev
 ![preview](./github/preview.png)
 
-> Primeira aula da Jornada Dev 
+> Currículo desenvolvido na Jornada Dev 
 
-Projeto construido no curso do evento. Jornada Dev.
+Projeto de um currículo deenvolvido no curso do evento. Jornada Dev.
 
 
 [ Clique aqui para acessar](https://douglascorreacavasso.github.io/JORNADA-DEV.GITHUB.IO/)
